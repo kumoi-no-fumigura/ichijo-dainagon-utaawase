@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ichijo-dainagon-utaawase",
  "yomi": "いちじょうだいなごんけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "平安中期",
+  "author": "主催 藤原為光",
+  "desc": "一条大納言藤原為光の家で催された歌合。紅梅・帰雁・柳・山吹・若草・残鶯など春の題で左右を番える小規模なもので、判詞はない。"
+ },
  "editions": [
   {
    "pid": "1879502",
